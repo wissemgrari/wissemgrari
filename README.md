@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wissemgrari
-- 👀 I’m interested in web & mobile develpoment
-- 🌱 I’m currently studing computer science ...
+- 👀 I’m interested in web & mobile develpoment.
+- 🌱 I’m currently studing computer science.
 - 📫 How to reach me: grariwissem@gmail.com
 
 <!---
