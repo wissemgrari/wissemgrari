@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wissemgrari&label=Profile%20views&color=0e75b6&style=flat" alt="wissemgrari" /> </p>
 
-- 🔭 I’m currently studying **Software Developer**
+- 🔭 I’m currently studying **Software Engineering**
 
 - 👨‍💻 I’m interested in web & mobile develpoment.
 
