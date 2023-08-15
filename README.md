@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wissem Grari</h1>
-<h3 align="center">A passionate Software Engineer from Tunisia</h3>
+<h3 align="center">A passionate Software Developer from Tunisia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wissemgrari&label=Profile%20views&color=0e75b6&style=flat" alt="wissemgrari" /> </p>
 
