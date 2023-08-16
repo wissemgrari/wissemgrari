@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **grariwissem@gmail.com**
 
-- ⚡ Fun fact **Make learning funny**
+- ⚡ Fun fact **HTML is a programming language**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
