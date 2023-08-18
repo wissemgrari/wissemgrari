@@ -1,5 +1,5 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=wissemgrari&label=Profile%20views&color=0e75b6&style=flat" alt="wissemgrari" /> </p>
-<h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Wissem Grari</h1>
+<h1 align="center">Hi, I'm Wissem Grari <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"></h1>
 <h3 align="center">A passionate Software Developer from Tunisia</h3>
 
 - 🔭 I’m currently studying **Software Engineering**
