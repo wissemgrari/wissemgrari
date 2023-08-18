@@ -29,10 +29,16 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </a>
 <a href="https://react.dev/" target="_blank" rel="noreferrer">
-<img src="https://www.svgrepo.com/show/374032/reactjs.svg" alt="react" width="40" height="40"/>
+<img src="https://www.svgrepo.com/show/374035/reactts.svg" alt="react" width="40" height="40"/>
 </a>
 <a href="https://angular.io/" target="_blank" rel="noreferrer">
 <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="react" width="40" height="40"/>
+</a>
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+<img src="https://www.svgrepo.com/show/374032/reactjs.svg" alt="react" width="40" height="40"/>
+</a>
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+<img src="https://www.svgrepo.com/show/374167/vite.svg" alt="react" width="40" height="40"/>
 </a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer">
 <img src="https://www.svgrepo.com/show/354048/material-ui.svg" alt="mui" width="40" height="40"/>
@@ -43,6 +49,8 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
 </a>
+<br />
+<br />
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 </a>
@@ -54,6 +62,9 @@
 </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+<img src="https://www.svgrepo.com/show/354200/postgresql.svg" alt="mysql" width="40" height="40"/>
 </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
