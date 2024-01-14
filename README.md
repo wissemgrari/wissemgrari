@@ -5,7 +5,7 @@ Hi, I'm Wissem Grari
     
 <h3 align="left">A passionate Software Developer from Tunisia</h3>
 
-- 🔭 I’m currently studying **Software Engineering**
+- 🔭 I’m currently studying **Software Developer**
 
 - 👨‍💻 I’m interested in web & mobile develpoment.
 
