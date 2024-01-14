@@ -7,8 +7,6 @@ Hi, I'm Wissem Grari
 
 - 🔭 I’m currently studying **Software Developer**
 
-- 👨‍💻 I’m interested in web & mobile develpoment.
-
 - 💬 Ask me about **MERN Stack, Javascript, Typescript, Java, Angular, Spring Boot**
 
 - 📫 How to reach me **grariwissem@gmail.com**
