@@ -15,7 +15,7 @@ A highly resourceful computer programmer and well-rounded IT professional with o
 Please feel free to reach out to me via my LinkedIn profile or email.
 
 **`Email : grariwissem@gmail.com`**
-**`[Portfolio][https://link-url-here.org](https://wissemgrari.vercel.app/)`**
+**[Portfolio][https://link-url-here.org](https://wissemgrari.vercel.app/)**
 <br>
 
 <p>
