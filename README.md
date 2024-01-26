@@ -19,6 +19,7 @@ Please feel free to reach out to me via my LinkedIn profile or email.
 <br>
 **[Portfolio](https://wissemgrari.vercel.app/)**
 <br>
+<br>
 
 <p>
 <a href="https://www.linkedin.com/in/wissemgrari/">
