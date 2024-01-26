@@ -12,23 +12,18 @@
 
 A highly resourceful computer programmer and well-rounded IT professional with over five years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications.
 
-Please feel free to reach out to me via my LinkedIn profile or email.
-
 **`Email : grariwissem@gmail.com`**
 <br>
 
 <p>
-<a href="https://wissemgrari.vercel.app" target="_blank">
-<img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
-</a> 
-<br>
-</p>
-<p>
 <a href="https://www.linkedin.com/in/wissemgrari/">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a> 
-<br>
+<a href="https://wissemgrari.vercel.app" target="_blank">
+<img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
+</a> 
 </p>
+
 
 <details>
  <summary>👨‍💻 More on Wissem's software engineering Journey</summary>
