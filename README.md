@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-A passionate Software Developer from Tunisia
+A passionate Software Developer from Tunisia 🇹🇳
 
 On my GitHub, you can find a collection of projects that I have developed from concept to completion, showcasing my ability to turn ideas into functional solutions for real-world challenges through code. Join me on this exciting journey as I aim to contribute to a more secure digital future.
 
