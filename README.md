@@ -1,111 +1,105 @@
-<h1 align="center">
-Hi, I'm Wissem Grari
-<img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">
-</h1>
-    
-<h3 align="left">A passionate Software Developer from Tunisia</h3>
+<center>
+<img alt="Header" src=""/>
+</center>
 
-- 🔭 I’m currently studying **Software Developer**
+# 🧑🏻‍💻 Wissem Grari
 
-- 💬 Ask me about **MERN Stack, Javascript, Typescript, Java, Angular, Spring Boot**
+**`IT Student | Software Developer`** <br>
 
-- 📫 How to reach me **grariwissem@gmail.com**
+### [📊 My Projects](https://github.com/wissemgrari?tab=repositories)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a style="text-decoration: none !important" href="https://www.linkedin.com/in/wissemgrari/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="wissemgrari" height="30" width="40" /></a>
-  <a style="text-decoration: none !important" href="https://www.instagram.com/wissem_grari/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="wissem_grari" height="30" width="40" /></a>
-  <a style="text-decoration: none !important" href="https://twitter.com/wissemgrari" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="wissemgrari" height="30" width="40" /></a>
+---
+
+## 👨‍💻 About Me
+
+A passionate Software Developer from Tunisia
+
+On my GitHub, you can find a collection of projects that I have developed from concept to completion, showcasing my ability to turn ideas into functional solutions for real-world challenges through code. Join me on this exciting journey as I aim to contribute to a more secure digital future.
+
+Please feel free to reach out to me via my LinkedIn profile or email.
+
+**`Email : grariwissem@gmail.com`**
+<br>
+
+<p>
+<a href="https://www.linkedin.com/in/wissemgrari/">
+<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a> 
+<br>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<details>
+ <summary>👨‍💻 More on Wissem's software engineering Journey</summary>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a style="text-decoration: none !important" href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" />
-  </a>
-  <a style="text-decoration: none !important" href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" />
-  </a>
-  <a style="text-decoration: none !important" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js"
-      width="40" height="40" />
-  </a>
-  <a style="text-decoration: none !important" href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript" width="40" height="40" />
-  </a>
-  <a style="text-decoration: none !important" href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/374035/reactts.svg" alt="react" width="40" height="40" />
-  </a>
-  <a style="text-decoration: none !important" href="https://angular.io/" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="react" width="40" height="40" />
-  </a>
-  <a style="text-decoration: none !important" href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/374032/reactjs.svg" alt="react" width="40" height="40" />
-  </a>
-  <a style="text-decoration: none !important" href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/374167/vite.svg" alt="react" width="40" height="40" />
-  </a>
-  <a style="text-decoration: none !important" href="https://mui.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/354048/material-ui.svg" alt="mui" width="40" height="40" />
-  </a>
-  <a style="text-decoration: none !important" href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40" />
-  </a>
-  <a style="text-decoration: none !important" href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="40" height="40" />
-  </a>
-  <br />
-  <br />
-  <a style="text-decoration: none !important" href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" width="40" height="40" />
-  </a>
-  <a style="text-decoration: none !important" href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-      width="40" height="40" />
-  </a>
-  <a style="text-decoration: none !important" href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
-  </a>
-  <a style="text-decoration: none !important" href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" />
-  </a>
-  <a style="text-decoration: none !important" href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/354200/postgresql.svg" alt="mysql" width="40" height="40" />
-  </a>
-  <a style="text-decoration: none !important" href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb" width="40" height="40" />
-  </a>
-  <a style="text-decoration: none !important" href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-  </a>
-  <a style="text-decoration: none !important" href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-      width="40" height="40" />
-  </a>
-  <a style="text-decoration: none !important" href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-      alt="docker" width="40" height="40" /> </a>
-  <a style="text-decoration: none !important" href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
-  </a>
-  <div style="margin-bottom: 30"></div>
+<p>Holder of an Information Systems Development university diploma since 2023, I am currently pursuing a master degree in cybersecurity, aspiring to deepen my expertise in securing digital environments. Complementing my formal education, I've undertaken extensive self-learning in web development, mastering Java OOP concepts, and acquiring proficiency in various frontend tools.</p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3 align="left">Statistics</h3>
+<p>Actively seeking opportunities to apply my knowledge, I am poised to contribute to cutting-edge, secure digital solutions.</p>
+</details>
+
+---
+
+### 🧰 Programming languages
+
+<p>
+  <br>
+  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/python-306998.svg?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+### Frameworks
+
+<p>
+ <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
+ <img alt="React" src="https://img.shields.io/badge/react-%2300D9FF.svg?style=for-the-badge&logo=react&logoColor=white"/>
+ <img alt="Next.js" src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/>
+ <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"/>
+ <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
+
+### Databases
+
+<p>
+ <img alt="Oracle" src="https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white"/>
+ <img alt="MySQL" src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+ <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+### Tools
+
+<p>
+  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="VSCode" src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+  <br>
+</p>
+
+### OS
+
+<p>
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+<details>
+<summary>
+<h2>👾 More tools</h2>
+</summary>
+<p>
+  <br>
+  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="DaisyUI" src="https://img.shields.io/badge/DaisyUI-%23323330.svg?style=for-the-badge&logo=DaisyUI&logoColor=white"/>
+  <img alt="Shadcn" src="https://img.shields.io/badge/Shadcn-%23007ACC.svg?style=for-the-badge&logo=Shadcn&logoColor=white"/>
+  <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
+
+</p>
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 
 <p style="text-align: center; margin-top: 30">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=wissemgrari&theme=github-dark-blue" />
