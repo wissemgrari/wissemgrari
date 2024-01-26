@@ -16,7 +16,7 @@ A highly resourceful computer programmer and well-rounded IT professional with o
 <br>
 
 <p>
-<a href="https://www.linkedin.com/in/wissemgrari" target="_blank">
+<a href="https://www.linkedin.com/in/wissemgrari" target="_blank" style="text-decoration: none">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a> 
 <a href="https://wissemgrari.vercel.app" target="_blank">
