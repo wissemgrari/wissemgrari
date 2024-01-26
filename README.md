@@ -83,41 +83,19 @@ Please feel free to reach out to me via my LinkedIn profile or email.
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
+<br />
 
-<details>
-<summary>
-<h2>👾 More tools</h2>
-</summary>
-<p>
-  <br>
-  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="DaisyUI" src="https://img.shields.io/badge/DaisyUI-%23323330.svg?style=for-the-badge&logo=DaisyUI&logoColor=white"/>
-  <img alt="Shadcn" src="https://img.shields.io/badge/Shadcn-%23007ACC.svg?style=for-the-badge&logo=Shadcn&logoColor=white"/>
-  <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
+### STATISTICS
 
-</p>
-</details>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-
-<p style="text-align: center; margin-top: 30">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=wissemgrari&theme=github-dark-blue" />
-</p>
-  <a style="text-decoration: none !important" href="https://github.com/wissemgrari">
-    <img align="center"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wissemgrari&theme=github_dark"
-      height="180em" />
-    <img align="center"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wissemgrari&theme=github_dark"
-      height="180em" />
-    <img align="center"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wissemgrari&theme=github_dark"
-      height="180em" />
-    <img align="center"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wissemgrari&theme=github_dark"
-      height="180em" />
-    <img align="center"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wissemgrari&theme=github_dark"
-      height="180em" />
+<div>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=wissemgrari&theme=github-dark-blue" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wissemgrari&theme=github_dark" />
+</div>
+<div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wissemgrari&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wissemgrari&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wissemgrari&theme=github_dark" />
+</div>
+<div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wissemgrari&theme=github_dark" />
 </div>
