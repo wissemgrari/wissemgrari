@@ -92,7 +92,7 @@ Please feel free to reach out to me via my LinkedIn profile or email.
 </div>
 <div>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wissemgrari&theme=github_dark" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wissemgrari&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wissemgrari&theme=github_dark" /><br />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wissemgrari&theme=github_dark" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wissemgrari&theme=github_dark" />
 </div>
