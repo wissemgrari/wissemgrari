@@ -16,11 +16,13 @@ Please feel free to reach out to me via my LinkedIn profile or email.
 
 **`Email : grariwissem@gmail.com`**
 <br>
-<br>
-**[Portfolio](https://wissemgrari.vercel.app/)**
-<br>
-<br>
 
+<p>
+<a href="https://wissemgrari.vercel.app" target="_blank">
+<img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
+</a> 
+<br>
+</p>
 <p>
 <a href="https://www.linkedin.com/in/wissemgrari/">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
