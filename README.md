@@ -1,7 +1,7 @@
 **`IT Student | Software Developer`** <br>
 
 <center>
-<img alt="Header" src="https://raw.githubusercontent.com/wissemgrari/wissemgrari/main/images/header.png"/>
+<img alt="header" src="https://raw.githubusercontent.com/wissemgrari/wissemgrari/main/images/header.png"/>
 </center>
 
 ### [📊 My Projects](https://github.com/wissemgrari?tab=repositories)
