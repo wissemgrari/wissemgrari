@@ -92,7 +92,7 @@ A highly resourceful computer programmer and well-rounded IT professional with o
 ### STATISTICS
 
 <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=wissemgrari&theme=github-dark-blue" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wissemgrari&theme=github-dark-blue" />
 </div>
 <div>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wissemgrari&theme=github_dark" />
